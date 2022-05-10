@@ -2,7 +2,7 @@
 
 Application UI NETFLIX
 
-See : example.jpg
+<img src="example.png" alt="example" />
 
 Run & Build : main.dart
 
